@@ -35,7 +35,7 @@ export default function Hero() {
                   href="#0"
                 >
                   <span className="relative inline-flex items-center">
-                    Discover the Future of Decentralized Art & Finance{" "}
+                    Shaping the Web3 Future{" "}
                     <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">
                       -&gt;
                     </span>

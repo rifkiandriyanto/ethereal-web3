@@ -1,7 +1,7 @@
 export const metadata = {
   title: "Ethereal - Empowering the Web3 Revolution",
   description:
-    "Ethereal is a cutting-edge decentralized platform bridging the gap between traditional web and Web3 technologies. Explore DeFi, NFTs, and blockchain innovations in a user-friendly environment.",
+    "Ethereal is a cutting-edge decentralized platform bridging the gap between traditional web and Web3 technologies.",
 };
 
 import Hero from "@/components/hero";
